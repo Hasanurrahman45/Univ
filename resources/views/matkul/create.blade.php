@@ -18,12 +18,11 @@
                                 <input type="text" name="kd_matkul" class="form-control" placeholder="Tambahkan Kode Matkul">
                         </div>
                         <div class="col">
-                            <label for="">NAMA MATKUL</label>
+                                <label for="">NAMA MATKUL</label>
                                 <input type="text" name="nama_matkul" class="form-control" placeholder="Tambahkan Nama Matkul">
                         </div>
                         <div class="col">
-                            <label for="">SKS</label>
-                            <div class="col-md-12">
+                                <label for="">SKS</label>
                                 <input type="text" name="sks" class="form-control" placeholder="Tambahkan SKS Matkul">
                         </div>
                     </div>
