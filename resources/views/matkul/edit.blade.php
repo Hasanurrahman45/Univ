@@ -8,7 +8,7 @@
                 <div class="card-header">Edit Data Matkul</div>
 
                 <div class="card-body">
-                    <form action="{{ route('edit.matkul', $matkul->id) }}" method="post">
+                    <form action="{{ route('update.matkul', $matkul->id) }}" method="post">
                         @csrf
                         <div class="form-group">
                             <div class="col">
